@@ -1,0 +1,13 @@
+
+  p {
+    color: purple;
+  }
+  h1 {
+    color: red;
+    font-size: 2.5em;
+  }
+  table, th, td {
+    border: 1px solid;
+  }
+  .header-blue { background-color:aliceblue; }
+  .header-green { background-color:greenyellow; }
